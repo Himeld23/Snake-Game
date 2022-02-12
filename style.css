@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20px;
+    color: red;
+}
+canvas{
+    display: block;
+    margin: 2% auto;
+    border: 5px solid red;
+    box-shadow: 1px 3px 36px 5px rgba(0, 0, 0, 0.75);
+}
